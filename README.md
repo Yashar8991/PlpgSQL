@@ -1,1 +1,1 @@
-PL/pgSQL dili Northwind databasedə edilmiş alıştşrmalar
+PL/pgSQL dili ilə Northwind databasedə edilmiş alıştşrmalar
